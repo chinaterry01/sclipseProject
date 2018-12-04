@@ -7,8 +7,6 @@ sa jia jiu xiu gai le!
 
 this is other a.txt---------
 
-<<<<<<< HEAD
-=======
-
 are your ready?
->>>>>>> dev
+
+这个是可以编辑了的
