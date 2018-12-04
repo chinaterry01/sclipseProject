@@ -5,8 +5,16 @@ yes ,just like this!
 wo shi fen zhi de ,
 sa jia jiu xiu gai le!
 
+<<<<<<< HEAD
 this is other a.txt--------
 
 are your ready?
 
 hhahahahah hehehehehllalalalala!
+=======
+this is other a.txt---------
+
+are your ready?
+
+这个是可以编辑了的
+>>>>>>> 43affed34a26857ffd2515b7727fea609b2f4e7a
